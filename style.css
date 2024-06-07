@@ -85,7 +85,7 @@ header{
 
 /* start landing */
 .landing{
-    background-image: url(/image/pexels-nandamends-20185868\ \(1\).jpg);
+    background-image: url(../homework/image/backround-landing.png);
     width: 100%;
     height: 100vh;
     position: relative;
